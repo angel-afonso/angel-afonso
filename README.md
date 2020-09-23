@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Ángel
 #### I am a developer and DevOps, passionate about learning new things continuously.
 
-### Tech stack
+### I work with:
 ![Rust](https://img.shields.io/badge/-Rust-00599rust?style=for-the-badge&logo=rust&logoColor=white&color=brown)
 ![Go](https://img.shields.io/badge/-go-00599go?style=for-the-badge&logo=go&logoColor=white&color=blue)
 ![Python](https://img.shields.io/badge/-python-00599python?style=for-the-badge&logo=python&color=darkblue&logoColor=white)
@@ -24,17 +24,4 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-00599postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=darkblue)
 ![Mongodb](https://img.shields.io/badge/-mongodb-00599mongodb?style=for-the-badge&logo=mongodb&logoColor=white&color=darkgreen)
 
-<!--
-**angel-afonso/angel-afonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=angel-afonso&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true)
