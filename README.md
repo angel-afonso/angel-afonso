@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Ángel
 #### I am a developer and DevOps, passionate about learning new things continuously.
 
-### I work with:
+### 💻 I work with: 
 ![Rust](https://img.shields.io/badge/-Rust-00599rust?style=for-the-badge&logo=rust&logoColor=white&color=brown)
 ![Go](https://img.shields.io/badge/-go-00599go?style=for-the-badge&logo=go&logoColor=white&color=blue)
 ![Python](https://img.shields.io/badge/-python-00599python?style=for-the-badge&logo=python&color=darkblue&logoColor=white)
@@ -24,4 +24,7 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-00599postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=darkblue)
 ![Mongodb](https://img.shields.io/badge/-mongodb-00599mongodb?style=for-the-badge&logo=mongodb&logoColor=white&color=darkgreen)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=angel-afonso&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true)
+### 💻 Some interesting stats (in dark mode because light attract bugs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-afonso&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=10)
+![Angel's github stats](https://github-readme-stats.vercel.app/api/?username=angel-afonso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
