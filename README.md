@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Ángel
-#### I am a developer and DevOps, passionate about learning new things continuously.
+#### I am a software developer, passionate about learning new things continuously.
 
 ### 💻 I work with: 
 ![Rust](https://img.shields.io/badge/-Rust-00599rust?style=for-the-badge&logo=rust&logoColor=white&color=brown)
