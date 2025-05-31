@@ -141,9 +141,6 @@ I'm a passionate software developer who believes in continuous learning and buil
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=angel-afonso&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
